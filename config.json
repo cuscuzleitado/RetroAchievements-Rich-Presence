@@ -1,0 +1,7 @@
+{
+  "raUser": "YOUR_RA_USERNAME",
+  "raApiKey": "YOUR_RA_WEB_API_KEY",
+  "discordClientId": "YOUR_DISCORD_APPLICATION_ID",
+  "pollSeconds": 30,
+  "activeWindowMinutes": 6
+}
